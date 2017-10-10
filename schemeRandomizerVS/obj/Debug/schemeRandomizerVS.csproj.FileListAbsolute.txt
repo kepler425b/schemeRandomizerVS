@@ -1,0 +1,6 @@
+C:\Users\kepler-452b\Desktop\kepler425b\schemeRandomizerVS\schemeRandomizerVS\bin\Debug\schemeRandomizerVS.exe
+C:\Users\kepler-452b\Desktop\kepler425b\schemeRandomizerVS\schemeRandomizerVS\bin\Debug\schemeRandomizerVS.pdb
+C:\Users\kepler-452b\Desktop\kepler425b\schemeRandomizerVS\schemeRandomizerVS\obj\Debug\schemeRandomizerVS.csprojResolveAssemblyReference.cache
+C:\Users\kepler-452b\Desktop\kepler425b\schemeRandomizerVS\schemeRandomizerVS\obj\Debug\schemeRandomizerVS.csproj.CoreCompileInputs.cache
+C:\Users\kepler-452b\Desktop\kepler425b\schemeRandomizerVS\schemeRandomizerVS\obj\Debug\schemeRandomizerVS.exe
+C:\Users\kepler-452b\Desktop\kepler425b\schemeRandomizerVS\schemeRandomizerVS\obj\Debug\schemeRandomizerVS.pdb
